@@ -1,16 +1,16 @@
-这个总结我将按年份，思想内容
-**综述：**
-2006 MMD--A Kernel Method for the Two-Sample-Problem Arthur--MMD
-2009 A survey on transfer learing--- ----经典综述，阐述了与自适应的定义，分类，以及方法
-2010 Relative Clustering Validity Criteria: A Comparative Overview---关于聚类的一篇综述
-2019 A review of domain adaptation without target label
-2019 Transfer Adaptation Learning: A Decade Survey
-2020 A Decade Survey of Transfer Learning (2010–2020)
-2020 A comprehensive  survey on transfer learning ---1328
-2020 A survey of Unsupervised deep domain adaptation
-2020 A survey of unsupervised deep domain adaptation--TIST--308
-2020 Deep visual domain adaptation:  a survey---一篇深度域自适应的论文，2018到现在有一千多引用量
-2020 Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey ----视觉方面的自监督的综述
+这个总结我将按年份，思想内容  
+**综述：**  
+2006 MMD--A Kernel Method for the Two-Sample-Problem Arthur--MMD  
+2009 A survey on transfer learing--- ----经典综述，阐述了与自适应的定义，分类，以及方法  
+2010 Relative Clustering Validity Criteria: A Comparative Overview---关于聚类的一篇综述  
+2019 A review of domain adaptation without target label  
+2019 Transfer Adaptation Learning: A Decade Survey  
+2020 A Decade Survey of Transfer Learning (2010–2020)  
+2020 A comprehensive  survey on transfer learning ---1328  
+2020 A survey of Unsupervised deep domain adaptation  
+2020 A survey of unsupervised deep domain adaptation--TIST--308  
+2020 Deep visual domain adaptation:  a survey---一篇深度域自适应的论文，2018到现在有一千多引用量  
+2020 Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey ----视觉方面的自监督的综述  
 2020 a survey of transformers---关于transformer的综述
 2021 Deep Spoken Keyword Spotting: An Overview---深度关键词的综述
 **伪标签的：**
