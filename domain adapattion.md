@@ -1,4 +1,5 @@
-这个总结我将按年份，思想内容   
+这个总结我将按年份，思想内容总结的  
+大致分为：综述， 伪标签， 基于特征的，对抗的，分类器的，较为前沿的，任务，和一些非UDA的文章  
 **综述：**   
 2006 MMD--A Kernel Method for the Two-Sample-Problem Arthur--MMD   
 2009 A survey on transfer learing--- ----经典综述，阐述了与自适应的定义，分类，以及方法   
@@ -110,7 +111,7 @@
 2020 Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis---两个分类器来判断目标域的迁移性   
 2020 DADA--Discriminative Adversarial Domain Adaptation---将域辨别器很分类器融合到一起设计的，效果是比较不错的。   
 2021 Reducing bias to source samples for unsupervised domain adaptation---分类器偏向源域的解决办法   
-较前沿的域自适应：   
+**较前沿的域自适应：**     
 2014 Asymmetric and Category Invariant Feature Transformations for Domain Adaptation--源域和目标域维度不一样   
 2016 CVPR Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation---异构域自适应，landmarks   
 2016 Domain Adaptation in the Absence of Source Domain Data---源域数据不可用   
