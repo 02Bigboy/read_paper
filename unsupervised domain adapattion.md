@@ -1,5 +1,5 @@
 这个总结我将按年份，思想内容总结的  
-大致分为：综述， 伪标签， 基于特征的，对抗的，分类器的，较为前沿的，任务，和一些非UDA的文章  
+大致分为：综述， 伪标签， 基于特征的，对抗的，分类器的，较为前沿的，传统的，任务，和一些非UDA的文章  
 **综述：**   
 2006 MMD--A Kernel Method for the Two-Sample-Problem Arthur--MMD   
 2009 A survey on transfer learing--- ----经典综述，阐述了与自适应的定义，分类，以及方法   
